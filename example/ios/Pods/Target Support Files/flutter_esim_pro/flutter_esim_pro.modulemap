@@ -1,0 +1,6 @@
+framework module flutter_esim_pro {
+  umbrella header "flutter_esim_pro-umbrella.h"
+
+  export *
+  module * { export * }
+}
