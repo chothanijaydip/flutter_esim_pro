@@ -1,7 +1,6 @@
 import 'flutter_esim_pro_platform_interface.dart';
 
 class FlutterEsim {
-
   /// Check support eSIM.
   Future<bool> isSupportESim({List<String>? newer}) async {
     return FlutterEsimPlatform.instance.isSupportESim(newer);

@@ -1,3 +1,5 @@
+import 'dart:developer';
+
 import 'package:flutter/material.dart';
 import 'dart:async';
 
@@ -24,7 +26,7 @@ class _MyAppState extends State<MyApp> {
     super.initState();
     initPlatformState();
     _flutterEsimPlugin.onEvent.listen((event) {
-      print(event);
+      log(event);
     });
   }
 
@@ -52,7 +54,6 @@ class _MyAppState extends State<MyApp> {
   Future<void> installEsim() async {
     await _flutterEsimPlugin.installEsimProfile("LPA:1\$lpa.airalo.com\$TEST");
   }
-
 
   @override
   Widget build(BuildContext context) {
