@@ -1,10 +1,10 @@
 # Flutter Pro eSIM Plugin
 
 [![pub package](https://img.shields.io/pub/v/flutter_esim_pro.svg)](https://pub.dev/packages/flutter_esim_pro)
-[![GitHub stars](https://img.shields.io/github/stars/hiennguyen92/flutter_esim_pro.svg?style=social)](https://github.com/hiennguyen92/flutter_esim_pro/stargazers)
-[![GitHub forks](https://img.shields.io/github/forks/hiennguyen92/flutter_esim_pro.svg?style=social)](https://github.com/hiennguyen92/flutter_esim_pro/network)
-[![GitHub issues](https://img.shields.io/github/issues/hiennguyen92/flutter_esim_pro.svg)](https://github.com/hiennguyen92/flutter_esim_pro/issues)
-[![GitHub license](https://img.shields.io/github/license/hiennguyen92/flutter_esim_pro.svg)](https://github.com/hiennguyen92/flutter_esim_pro/blob/master/LICENSE)
+[![GitHub stars](https://img.shields.io/github/stars/chothanijaydip/flutter_esim_pro.svg?style=social)](https://github.com/chothanijaydip/flutter_esim_pro/stargazers)
+[![GitHub forks](https://img.shields.io/github/forks/chothanijaydip/flutter_esim_pro.svg?style=social)](https://github.com/chothanijaydip/flutter_esim_pro/network)
+[![GitHub issues](https://img.shields.io/github/issues/chothanijaydip/flutter_esim_pro.svg)](https://github.com/chothanijaydip/flutter_esim_pro/issues)
+[![GitHub license](https://img.shields.io/github/license/chothanijaydip/flutter_esim_pro.svg)](https://github.com/chothanijaydip/flutter_esim_pro/blob/master/LICENSE)
 
 A Flutter plugin for checking eSIM support and installing eSIM profiles directly within your app.
 
@@ -123,10 +123,10 @@ It's crucial to acknowledge that eSIM compatibility may vary based on the mobile
 For more details, refer to the <a href="https://pub.dev/documentation/flutter_esim_pro/latest">API Reference</a> section.
 
 ## Example
-Check out the <a href="https://github.com/hiennguyen92/flutter_esim_pro/tree/main/example">example</a> directory for a simple Flutter app demonstrating the usage of this plugin.
+Check out the <a href="https://github.com/chothanijaydip/flutter_esim_pro/tree/main/example">example</a> directory for a simple Flutter app demonstrating the usage of this plugin.
 
 ## Contributing
 Feel free to contribute to this project!
 
 ## License
-This project is licensed under the <a href="https://github.com/hiennguyen92/flutter_esim_pro/blob/main/LICENSE">MIT License</a>.
+This project is licensed under the <a href="https://github.com/chothanijaydip/flutter_esim_pro/blob/main/LICENSE">MIT License</a>.
