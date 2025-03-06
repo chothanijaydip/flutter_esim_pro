@@ -29,3 +29,5 @@ flutter:
         pluginClass: FlutterEsimProPlugin
       ios:
         pluginClass: FlutterEsimProPlugin
+      macos:
+        pluginClass: FlutterEsimProPlugin
