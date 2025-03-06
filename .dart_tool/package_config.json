@@ -167,10 +167,10 @@
       "name": "flutter_esim_pro",
       "rootUri": "../",
       "packageUri": "lib/",
-      "languageVersion": "2.18"
+      "languageVersion": "3.0"
     }
   ],
-  "generated": "2025-03-06T01:08:35.377606Z",
+  "generated": "2025-03-06T01:11:00.840155Z",
   "generator": "pub",
   "generatorVersion": "3.5.0",
   "flutterRoot": "file:///Users/apple/flutter",
